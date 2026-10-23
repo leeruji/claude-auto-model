@@ -1,0 +1,5 @@
+{
+  "name": "auto-model",
+  "version": "0.1.0",
+  "description": "질문 크기에 따라 메인 대화의 모델(haiku·sonnet·opus)을 턴마다 자동으로 고른다"
+}
