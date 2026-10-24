@@ -1,6 +1,6 @@
 # auto-model
 
-질문 크기에 따라 Claude Code 메인 대화의 모델(haiku · sonnet · opus)을 질문마다 자동으로 고르는 mod 예요.
+질문 크기에 따라 Claude Code 메인 대화의 모델(haiku · sonnet · opus)을 질문마다 자동으로 고르는 mod입니다.
 
 - 짧은 질문은 haiku, 보통 작업은 sonnet, "설계·구조·전체" 같은 큰 작업은 opus
 - 올리기는 바로, 내리기는 가벼운 질문이 두 번 이어지거나 5분 넘게 쉬었을 때만
